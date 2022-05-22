@@ -1,0 +1,7 @@
+## CRUD OPERATION IN GO
+
+GET MOVIES /movies
+GET MOVIES BY ID /movies/{id}
+CREATE MOVIES(POST) /movies
+UPDATE MOVIES(PUT) /movies/{id}
+DELETE MOVIES /movies/{id}
